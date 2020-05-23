@@ -26,7 +26,7 @@ print('Longitude:', subpoint.longitude)
 print('Elevation (m):', int(subpoint.elevation.m))
 
 #tropocentric (from where we are, the Wash Monument)
-dc = Topos('38.88965 N', '77.03535 W')
+dc = Topos('38.88948 N', '77.03528 W')
 difference = satellite - dc
 geometry = difference.at(t)
 topocentric = difference.at(t)

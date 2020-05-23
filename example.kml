@@ -14,16 +14,16 @@
       <flyToView>0</flyToView>
       <LookAt id="ID">
         <!-- specific to LookAt -->
-        <longitude>-77.035289</longitude>            	<!-- kml:angle180 -->
-        <latitude>38.889513</latitude>              	<!-- kml:angle90 -->
-        <altitude>12</altitude>              		<!-- double -->
-        <heading>061</heading>                <!-- kml:angle360 -->
-        <tilt>52</tilt>                     <!-- kml:anglepos90 -->
-        <range>641182</range>                     <!-- double -->
+        <longitude>-77.03528</longitude>            	<!-- kml:angle180 -->
+        <latitude>38.88948</latitude>              	<!-- kml:angle90 -->
+        <altitude>0</altitude>              		<!-- double -->
+        <heading>060</heading>                <!-- kml:angle360 -->
+        <tilt>51</tilt>                     <!-- kml:anglepos90 -->
+        <range>641179.25643476040568</range>                     <!-- double -->
         <altitudeMode>clampToGround</altitudeMode>
       </LookAt>
       <Link>
-        <href>http://3.14.9.244:18104/cgi-bin/HSCKML.py</href>
+        <href>http://3.19.142.227:32758/cgi-bin/HSCKML.py</href>
         <refreshInterval>1</refreshInterval>
         <viewRefreshMode>onStop</viewRefreshMode>
         <viewRefreshTime>1</viewRefreshTime>
